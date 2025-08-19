@@ -1,1 +1,1 @@
-هذا حل الكوز اما حل  الاساله الاخيره موجودة في الكود 
+this is the solution tpo the puzzle, but the solution to the last questions is in the code. 
